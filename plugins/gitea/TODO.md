@@ -1,0 +1,2 @@
+- [ ] Handle symlinks
+- [ ] Handle submodules
